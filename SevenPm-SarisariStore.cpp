@@ -36,8 +36,6 @@ int main()
 	cout << "MilkQty: ";
 	cin >> milkQty;
 	
-	sugarPricePHP = sugarPriceUSD * USDtoPHP * sugarQty;
-	
 	
 	return 0;
 	
